@@ -1,0 +1,19 @@
+[
+    {
+        "hotel":"Hilton",
+        "hotelRate":4,
+        "hotelFare":"189,99",
+        "roomAmenities":"tv,spa"
+
+    },{
+        "hotel":"4season",
+        "hotelRate":5,
+        "hotelFare":"259,99",
+        "roomAmenities":"tv,spa,sea view"
+    },{
+        "hotel":"Rotana",
+        "hotelRate":3,
+        "hotelFare":"124,99",
+        "roomAmenities":"tv"
+    }
+]
